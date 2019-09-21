@@ -3,4 +3,11 @@
     <string name="app_name">AndroidAssignments</string>
     <string name="hello_message">Merhaba Dünya!</string>
     <string name="ButtonText">Ben bir düğme</string>
+    <string name="LoginText">Giriş</string>
+    <string name="LoginNameHint">Giriş isim</string>
+    <string name ="PasswordText">Şifre</string>
+    <string name="RadioButtonText">RadyoDüğme</string>
+    <string name="CheckBoxText">IşaretiKutusu</string>
+    <string name="SwitchText">Bu ne yapar?</string>
+
 </resources>
