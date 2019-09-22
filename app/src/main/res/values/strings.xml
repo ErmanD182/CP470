@@ -8,4 +8,14 @@
     <string name="RadioButtonText">RadioButton</string>
     <string name="CheckBoxText">CheckBox</string>
     <string name="SwitchText">What does this do?</string>
+    <string name="DefaultEmailText">email@domain.com</string>
+    <string name="SavedEmailText"> </string>
+    <string name="SwitchOnText">Switch is On</string>
+    <string name="SwitchOffText">Switch is Off</string>
+    <string name="dialog_message">Go back to StartActivity?</string>
+    <string name="dialog_title">Dialog Box</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="infoToShareText">my information to share</string>
+    <string name="ListItemsActivityPassedText">ListItemsActivity passed: </string>
 </resources>

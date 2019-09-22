@@ -9,5 +9,14 @@
     <string name="RadioButtonText">RadyoDüğme</string>
     <string name="CheckBoxText">IşaretiKutusu</string>
     <string name="SwitchText">Bu ne yapar?</string>
-
+    <string name="DefaultEmailText">email@domain.com</string>
+    <string name="SavedEmailText"> </string>
+    <string name="SwitchOnText">Şalter Açık</string>
+    <string name="SwitchOffText">Şalter Kapalı</string>
+    <string name="dialog_message">StartActivity\'ye geri dön?</string>
+    <string name="dialog_title">Diyalog Kutusu</string>
+    <string name="ok">Evet</string>
+    <string name="cancel">Iptal</string>
+    <string name="infoToShareText">benim bilgim\'ye paylaşmak</string>
+    <string name="ListItemsActivityPassedText">ListItemsActivity geçti: </string>
 </resources>
