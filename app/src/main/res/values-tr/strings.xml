@@ -19,4 +19,6 @@
     <string name="cancel">Iptal</string>
     <string name="infoToShareText">benim bilgim\'ye paylaşmak</string>
     <string name="ListItemsActivityPassedText">ListItemsActivity geçti: </string>
+    <string name="startChatButtonText">Sohbete Başla</string>
+    <string name="sendButtonText">Gönder</string>
 </resources>
