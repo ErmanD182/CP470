@@ -20,4 +20,13 @@
     <string name="ListItemsActivityPassedText">ListItemsActivity passed: </string>
     <string name="startChatButtonText">Start Chat</string>
     <string name="sendButtonText">Send</string>
+    <string name="title_activity_test_toolbar">TestToolbar</string>
+    <string name="StartToolbarText">Start Toolbar</string>
+    <string name="settingsAboutText">Version 1.0, by Erman Dinsel</string>
+    <string name="aboutText">About</string>
+    <string name="snackbarText">This is a snackbar notification</string>
+    <string name="snackbarText2">You selected item 1</string>
+    <string name="goBackText">Do you want to go back?</string>
+    <string name="newMessageText">New Message</string>
+
 </resources>

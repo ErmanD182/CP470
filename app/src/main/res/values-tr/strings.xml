@@ -21,4 +21,13 @@
     <string name="ListItemsActivityPassedText">ListItemsActivity geçti: </string>
     <string name="startChatButtonText">Sohbete Başla</string>
     <string name="sendButtonText">Gönder</string>
+    <string name="title_activity_test_toolbar">Deney araç çubuğunu</string>
+    <string name="StartToolbarText">Araç çubuğunu başlat</string>
+    <string name="settingsAboutText">Versiyon 1.0, Erman Dinseldan</string>
+    <string name="aboutText">Hakkında</string>
+    <string name="snackbarText">Bu bir snack bar bildirimidir</string>
+    <string name="snackbarText2">Sen seçtin 1</string>
+    <string name="goBackText">Geri dönmek ister misin?</string>
+    <string name="newMessageText">Yeni Mesaj</string>
+
 </resources>
