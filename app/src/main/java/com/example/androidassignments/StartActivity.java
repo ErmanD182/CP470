@@ -11,7 +11,7 @@ import android.widget.Toast;
 
 public class StartActivity extends AppCompatActivity {
     protected static final String ACTIVITY_NAME = "StartActivity";
-    private Button button, chatButton, toolbarButton;
+    private Button button, chatButton, toolbarButton,weatherButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         Log.i(ACTIVITY_NAME, "In onCreate()");
@@ -21,6 +21,7 @@ public class StartActivity extends AppCompatActivity {
         button = (Button)findViewById(R.id.button);
         chatButton = (Button)findViewById(R.id.startChatButton);
         toolbarButton = (Button)findViewById(R.id.startToolBarButton);
+        weatherButton = (Button)findViewById(R.id.startWeatherButton);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -43,6 +44,14 @@ public class StartActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(StartActivity.this,TestToolbar.class);
+                startActivity(intent);
+            }
+        });
+
+        weatherButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(StartActivity.this,WeatherForecast.class);
                 startActivity(intent);
             }
         });

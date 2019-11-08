@@ -29,5 +29,8 @@
     <string name="snackbarText2">Sen seçtin 1</string>
     <string name="goBackText">Geri dönmek ister misin?</string>
     <string name="newMessageText">Yeni Mesaj</string>
-
+    <string name="weatherButtonText">Hava Durumu</string>
+    <string name="currentTempText">Şuanki sıcaklık:</string>
+    <string name="minTempText">Asgari sıcaklık:</string>
+    <string name="maxTempText">Maksimum sıcaklık:</string>
 </resources>
