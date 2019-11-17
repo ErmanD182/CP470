@@ -33,4 +33,5 @@
     <string name="currentTempText">Şuanki sıcaklık:</string>
     <string name="minTempText">Asgari sıcaklık:</string>
     <string name="maxTempText">Maksimum sıcaklık:</string>
+    <string name="deleteMessageText">Mesajı sil</string>
 </resources>

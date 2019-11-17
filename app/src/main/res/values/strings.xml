@@ -32,6 +32,7 @@
     <string name="currentTempText">Current Temperature:</string>
     <string name="minTempText">Minimum Temperature:</string>
     <string name="maxTempText">Maximum Temperature:</string>
+    <string name="deleteMessageText">Delete Message</string>
     <string-array name="cities_array">
         <item>Ottawa</item>
         <item>Waterloo</item>
